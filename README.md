@@ -9,6 +9,9 @@ In this course, I aim to deepen my understanding of data visualization and effec
 
 ## Portfolio
 
+### Data Visualizations
+[OECD Government Debt](dataviz.md)
+
 ### Sketching Exercises
 - **In-class Sketching Exercise**
 - **Controlling Color Sketching Exercise**
