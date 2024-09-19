@@ -62,7 +62,8 @@ For the redesign, I created a horizontal bar chart wireframe that displays the a
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-**Source: [Our World in Data: Primary Energy Consumption per Capita](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&time=earliest..2023&country=IND~SWE~OWID_WRL~USA~CAN~RUS~ATG~ASM~DZA) **
+
+**Source:** [Our World in Data: Primary Energy Consumption per Capita](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&time=earliest..2023&country=IND~SWE~OWID_WRL~USA~CAN~RUS~ATG~ASM~DZA)
 
 
 The wireframe includes:
@@ -119,7 +120,8 @@ Both interviewees appreciated the switch to a bar chart for its clarity and ease
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
-**Source: [Our World in Data: Primary Energy Consumption per Capita](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&time=earliest..2023&country=IND~SWE~OWID_WRL~USA~CAN~RUS~ATG~ASM~DZA) **
+
+**Source:** [Our World in Data: Primary Energy Consumption per Capita](https://ourworldindata.org/grapher/per-capita-energy-use?tab=chart&time=earliest..2023&country=IND~SWE~OWID_WRL~USA~CAN~RUS~ATG~ASM~DZA)
 
 
 For my final redesign, I made several changes to make the data visualization more relatable, accessible, and insightful while retaining its exploratory nature. Here’s an overview of the redesign process, choices I made, and the final outcome:
@@ -160,6 +162,6 @@ For my final redesign, I made several changes to make the data visualization mor
 - By converting energy consumption into phone charges, using a gradient color scheme, and providing clear labels, I created a visualization that effectively communicates the disparities in energy use in a way that is easy to grasp for a broad audience.
 
 ### Next Steps
-- While the current chart provides a comprehensive overview, future iterations could include interactivity, such as filters by region or income group, to allow for even more detailed exploration of the data.
+- While the current chart provides a comprehensive overview, future iterations could include interactivity, such as filters by region, a race bar chart to allow for even more detailed exploration of the data.
 
 This redesigned chart successfully addresses the critiques from the earlier assessment, making it more user-friendly, informative, and engaging.
