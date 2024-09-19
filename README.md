@@ -9,6 +9,9 @@ In this course, I aim to deepen my understanding of data visualization and effec
 
 ## Portfolio
 
+### Critique By Redesign
+[Our World in Data: Energy Hogs](critique.md)
+
 ### Data Visualizations
 [OECD Government Debt](dataviz2.md)
 
