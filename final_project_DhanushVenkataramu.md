@@ -36,20 +36,40 @@ I intend to tell a story for the major employment base in my home country India,
 - **Create Tension & Use Time**: As the viewer moves toward the resolution, build anticipation by showing incremental changes over time in exports and investing benfits. Let the final visual land with a compelling call to action: encouraging investment in Indian agriculture and promoting sustainable export growth.
 
 # Intial Sketches
+ I made use of pythin scripts with mock data to get a visualization close to what I intend acheive at the end, the following are the mock visualization for my project
 
+### Line Chart:
+This chart shows the growth of **Indian agricultural exports to the USA** from 2010 to 2020. It highlights the fluctuations in export volumes over the years, providing a clear view of the trends in Indian exports and their impact on global trade.
+
+!(Growinf-exports-mockup.png)
+
+### Bar Chart:
+This visualization compares the **key agricultural products exported from India to the USA**. It showcases export values (in billion USD) for items such as **Rice, Spices, Tea, Grains, and Fruits**, giving insights into which products dominate the export landscape.
+
+!(Export-by-product-mockup.png)
+
+### Pie Chart:
+The pie chart displays the **market share of key agricultural products exported from India**. It provides a percentage breakdown of each product's share, with **Rice** taking the largest slice of the pie, followed by **Spices** and other key products.
+
+
+### Indian Produce in Different Food Products:
+This bar chart shows **Indian produce in different food products**, represented in million tons. It provides context for the types of agricultural products India produces, including items like **Wheat, Rice, Sugarcane, Tea, Spices, Fruits, and Vegetables**. This data can be linked to the products being exported to the USA, demonstrating India's agricultural capacity.
+
+!(Indian-produce-mockup.png)
 
 # Data Sources
 
 ## Agricultural Imports Data (USDA)
 The primary dataset we are using is from the **United States Department of Agriculture (USDA)**, which provides detailed records of agricultural imports by country and product category. This dataset will allow us to track the volume and type of agricultural products being imported into the United States from India over the past years. This is essential for demonstrating the rise in Indian agricultural exports to the U.S. and quantifying the economic impact on India's agricultural backbone.
 
-- **Data Source 1**: [country_trade.xlsx](country_trade.xlsx)
+- **Data Source 1**: [USDA](https://www.ers.usda.gov/data-products/foreign-agricultural-trade-of-the-united-states-fatus/)
+- **Data File 1**: [country_trade.xlsx](country_trade.xlsx)
 
 ## Pew Research Center Data on Indian Americans
 To provide additional context to the rising demand for Indian agricultural products, we are utilizing data from the **Pew Research Center** on the growing Indian American population. This dataset offers insights into the demographic growth of Indian Americans, which can help explain the increase in demand for Indian agricultural products in the U.S. market.
 
 - **Data Source 2**: [Pew Research Center: Asian Americans, Indians in the U.S.](https://www.pewresearch.org/fact-sheet/asian-americans-indians-in-the-u-s/)
-- **Data File**: [IPUMS Data](Pew-data.csv)
+- **Data File 2**: [Pew Data](Pew-data.csv)
 
 ## USDA Report on Growing U.S. Agricultural Exports to India
 This report from the **USDA** provides valuable insights into the agricultural trade between the U.S. and India, specifically focusing on the growing opportunities for U.S. exports into India. While this data highlights the reverse trade relationship, it complements our narrative by showcasing this rising opportunity for Indian farmers.
