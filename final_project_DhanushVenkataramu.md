@@ -36,17 +36,17 @@ I intend to tell a story for the major employment base in my home country India,
 - **Create Tension & Use Time**: As the viewer moves toward the resolution, build anticipation by showing incremental changes over time in exports and investing benfits. Let the final visual land with a compelling call to action: encouraging investment in Indian agriculture and promoting sustainable export growth.
 
 # Intial Sketches
- I made use of pythin scripts with mock data to get a visualization close to what I intend acheive at the end, the following are the mock visualization for my project
+ I made use of python scripts with mock data to get a visualization close to what I intend acheive at the end, the following are the mock visualization for my project
 
 ### Line Chart:
 This chart shows the growth of **Indian agricultural exports to the USA** from 2010 to 2020. It highlights the fluctuations in export volumes over the years, providing a clear view of the trends in Indian exports and their impact on global trade.
 
-!(Growinf-exports-mockup.png)
+![Line_Chart](Growinf-exports-mockup.png)
 
 ### Bar Chart:
 This visualization compares the **key agricultural products exported from India to the USA**. It showcases export values (in billion USD) for items such as **Rice, Spices, Tea, Grains, and Fruits**, giving insights into which products dominate the export landscape.
 
-!(Export-by-product-mockup.png)
+![Bar_Chart](Export-by-product-mockup.png)
 
 ### Pie Chart:
 The pie chart displays the **market share of key agricultural products exported from India**. It provides a percentage breakdown of each product's share, with **Rice** taking the largest slice of the pie, followed by **Spices** and other key products.
@@ -55,7 +55,7 @@ The pie chart displays the **market share of key agricultural products exported 
 ### Indian Produce in Different Food Products:
 This bar chart shows **Indian produce in different food products**, represented in million tons. It provides context for the types of agricultural products India produces, including items like **Wheat, Rice, Sugarcane, Tea, Spices, Fruits, and Vegetables**. This data can be linked to the products being exported to the USA, demonstrating India's agricultural capacity.
 
-!(Indian-produce-mockup.png)
+![Bar_Chart](Indian-produce-mockup.png)
 
 # Data Sources
 
