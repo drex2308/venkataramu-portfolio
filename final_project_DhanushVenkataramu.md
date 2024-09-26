@@ -12,7 +12,6 @@ Through data, I’ll demonstrate how the surge in Indian agricultural imports in
 
 I intend to tell a story for the major employment base in my home country India, agriculturalists, i.e, farmers. Telling this story through data, I will implore my viewers on the need to make use of this rising opportunity of increasing Indian diaspora in the United States of America which is backed the increase in demand for agricultural products - sourced in India. By the end of this project, I hope to show how rising imports of Indian agricultural products in the U.S. create a win-win situation: one where American consumers benefit from quality, diverse products, and Indian farmers reap the rewards of global trade. It’s time to celebrate the connection between local farmers and global markets, and how this relationship helps India's agricultural sector flourish.
 
-# Project Structure
 
 # Project Structure: Rising Indian Agricultural Exports to the USA
 
@@ -33,10 +32,40 @@ I intend to tell a story for the major employment base in my home country India,
 - **Deconstruct and Reconstruct**: Break down the export data into simpler categories (e.g., regions, crops) and then rebuild it into a comprehensive view of how this trend strengthens India's agricultural backbone.
 
 ## 5. Call to Action
-- **Tell Stories**: Conclude by telling the story of an individual farmer or region in India that has seen transformative growth due to this export trend. Use data to back up this narrative, weaving in the larger story of how the U.S. demand is increasing over the years and is backed by the increasing Indian diaspora in the USA.
+- **Tell Stories**: Use data to back up this narrative, weaving in the larger story of how the U.S. demand is increasing over the years and is backed by the increasing Indian diaspora in the USA.
 - **Create Tension & Use Time**: As the viewer moves toward the resolution, build anticipation by showing incremental changes over time in exports and investing benfits. Let the final visual land with a compelling call to action: encouraging investment in Indian agriculture and promoting sustainable export growth.
 
-# Sketches
+# Intial Sketches
+
+
+# Data Sources
+
+## Agricultural Imports Data (USDA)
+The primary dataset we are using is from the **United States Department of Agriculture (USDA)**, which provides detailed records of agricultural imports by country and product category. This dataset will allow us to track the volume and type of agricultural products being imported into the United States from India over the past years. This is essential for demonstrating the rise in Indian agricultural exports to the U.S. and quantifying the economic impact on India's agricultural backbone.
+
+- **Data Source 1**: [country_trade.xlsx](country_trade.xlsx)
+
+## Pew Research Center Data on Indian Americans
+To provide additional context to the rising demand for Indian agricultural products, we are utilizing data from the **Pew Research Center** on the growing Indian American population. This dataset offers insights into the demographic growth of Indian Americans, which can help explain the increase in demand for Indian agricultural products in the U.S. market.
+
+- **Data Source 2**: [Pew Research Center: Asian Americans, Indians in the U.S.](https://www.pewresearch.org/fact-sheet/asian-americans-indians-in-the-u-s/)
+- **Data File**: [IPUMS Data](Pew-data.csv)
+
+## USDA Report on Growing U.S. Agricultural Exports to India
+This report from the **USDA** provides valuable insights into the agricultural trade between the U.S. and India, specifically focusing on the growing opportunities for U.S. exports into India. While this data highlights the reverse trade relationship, it complements our narrative by showcasing this rising opportunity for Indian farmers.
+- **Data Source 3**: [2017-10_iatr_india.pdf](2017-10_iatr_india.pdf)
+
+# Method and Medium
+
+For this project, I will be using **Shorthand** to structure the storytelling elements, creating an interactive narrative that engages the audience and enhances the data-driven story. This platform will allow me to present the context and call-to-action seamlessly within a visually compelling layout. 
+
+Additionally, all **data visualizations** will be created using **Tableau**, ensuring that the graphs and charts are dynamic, interactive, and easy to explore. Tableau will be used to create line charts, bar charts, and pie charts that show the growth of Indian agricultural exports to the USA, key product comparisons, and the impact on the Indian agricultural economy.
+
+By combining Shorthand for storytelling and Tableau for interactive data visualizations, the final project will deliver a comprehensive and engaging story about the rise in Indian agricultural exports and the rising opportunities for Indian farmers.
+
+
+
+
 
 
 
