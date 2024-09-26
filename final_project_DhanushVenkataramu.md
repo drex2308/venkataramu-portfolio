@@ -51,6 +51,7 @@ This visualization compares the **key agricultural products exported from India 
 ### Pie Chart:
 The pie chart displays the **market share of key agricultural products exported from India**. It provides a percentage breakdown of each product's share, with **Rice** taking the largest slice of the pie, followed by **Spices** and other key products.
 
+![Pie Chart](Market-pie.png)
 
 ### Indian Produce in Different Food Products:
 This bar chart shows **Indian produce in different food products**, represented in million tons. It provides context for the types of agricultural products India produces, including items like **Wheat, Rice, Sugarcane, Tea, Spices, Fruits, and Vegetables**. This data can be linked to the products being exported to the USA, demonstrating India's agricultural capacity.
@@ -74,6 +75,8 @@ To provide additional context to the rising demand for Indian agricultural produ
 ## USDA Report on Growing U.S. Agricultural Exports to India
 This report from the **USDA** provides valuable insights into the agricultural trade between the U.S. and India, specifically focusing on the growing opportunities for U.S. exports into India. While this data highlights the reverse trade relationship, it complements our narrative by showcasing this rising opportunity for Indian farmers.
 - **Data Source 3**: [2017-10_iatr_india.pdf](2017-10_iatr_india.pdf)
+
+```I am still working on another dataset regrading indian produces to strengthen my context, although I belive the data I presently have acquired enough to acheive this goal```
 
 # Method and Medium
 
