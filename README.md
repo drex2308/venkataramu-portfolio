@@ -31,4 +31,4 @@ In this course, I aim to deepen my understanding of data visualization and effec
 - **In-class Challenge Exercise (Week Seven)**
 
 ### Final Project
-- **Final Project**
+[Fianl Project: Opportunities in Agricultral Export in India](final_project_DhanushVenkataramu.md)
