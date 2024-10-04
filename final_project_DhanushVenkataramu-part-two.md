@@ -6,7 +6,7 @@ The detaliled project structure from part 1 enabled me to refine how I tell my s
 Using Shorthand, I designed the elements that play a crucial role in story telling, choosing a color theme to reflect my topic, layout to persuade my viewers to hop on the opportunity I was presenting. I made the visualization as interactive as possible  to keep the users engaged (embedding the tableau links), help users navigate and reveal information on user engagement.
 Finding relevant datasets that shed more light and context to the story I was building, integrated them in Tableau, creating visualizations that I can embed in Tableau.
 
-This is the [My Story website](https://carnegiemellon.shorthandstories.co) I created on "The Growing Demand for Indian Food Products in the USA".
+This is the [My Story website](https://carnegiemellon.shorthandstories.com/from-your-fields-to-their-plates/index.html) I created on "The Growing Demand for Indian Food Products in the USA".
 
 ## Challenges
 
