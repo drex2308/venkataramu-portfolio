@@ -4,7 +4,7 @@
 
 ## About Me
 
-![Dhanush Venkataramu] (my_photo.jpg)
+![Dhanush Venkataramu](my_photo.jpg)
 Hello! I'm Dhanush, I am a network engineer by profession, a Software Engineer in the making. I have 2 years of experience in L2/L3 and Service Provider teams at Cisco and I am passionate about technology and its potential to solve real-world problems. Currently, I'm pursuing a Master's degree in Information Systems Management, where I focus on the intersection of software engineering, data science, and disruptive technologies.
 
 When I'm not coding or studying, I enjoy exploring new technologies, contributing to open-source projects, and continuously learning to stay ahead in this fast-paced industry. I'm excited to share my journey and projects with you through this portfolio!
