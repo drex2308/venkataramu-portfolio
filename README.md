@@ -1,4 +1,5 @@
-# venkataramu-portfolio
+ [home page](https://drex2308.github.io/venkataramu-portfolio/) | [critique by redesign](critique) | [final project I](final_project_DhanushVenkataramu) | [final project II](final_project_DhanushVenkataramu-part-two)
+
 ## About Me
 Hello! I'm Dhanush, I am a network engineer by profession, a Software Engineer in the making. I have 2 years of experience in L2/L3 and Service Provider teams at Cisco and I am passionate about technology and its potential to solve real-world problems. Currently, I'm pursuing a Master's degree in Information Systems Management, where I focus on the intersection of software engineering, data science, and disruptive technologies.
 
