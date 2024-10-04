@@ -3,7 +3,7 @@
  # Wireframes / storyboards
 
 The detaliled project structure from part 1 enabled me to refine how I tell my story through the approriate hook, facts and data visualizations in this phase. Describing my research and insights on this topic that was very inspirational to me was exciting, I told my story with my research and findings with relevant images and data visualizations.
-Using Shorthand, I designed the elements that play a crucial role in story telling, choosing a color theme to reflect my topic, layout to persuade my viwers to hop on the opportunity I was presenting. I made the visualization as interactive as possible  to keep the users engaged (embedding the tableau links), help users navigate and reveal information on user engagement.
+Using Shorthand, I designed the elements that play a crucial role in story telling, choosing a color theme to reflect my topic, layout to persuade my viewers to hop on the opportunity I was presenting. I made the visualization as interactive as possible  to keep the users engaged (embedding the tableau links), help users navigate and reveal information on user engagement.
 Finding relevant datasets that shed more light and context to the story I was building, integrated them in Tableau, creating visualizations that I can embed in Tableau.
 
 This is the [My Story website](https://carnegiemellon.shorthandstories.co) I created on "The Growing Demand for Indian Food Products in the USA".
@@ -11,28 +11,21 @@ This is the [My Story website](https://carnegiemellon.shorthandstories.co) I cre
 ## Challenges
 
 1. I found it challenging to find the dataset, especially on the insights I wanted to shed on current agricultural standing in India, its leading product export to USA and correlation to forecast in the future.
-2. I found it challenging before the interviews and in-class crtitique to get a proper hook for my story and my user focus, which audience would I cater my story to and what exactly would they want to know.
+2. I found it challenging before the interviews and in-class crtitique to get a proper hook for my story and my user base focus, which audience would I cater my story to and what exactly would they want to know.
 3. Visualizing with Tableau was hard in the beginning since I am using the tool for the first time, but I had a lot of help thorough online tutorials and LLMs when I found it hard to navigate through Tableau features.
 
-# User research 
 
-## Target audience
+## User Research
+
+#### Approach to Identifying Interviewees
 
 After much thought into the data insights and in-class crtiques, I have found my users, talking to an audience that knew abiut agriculatural exports and export based investements in general was very crucial to structure the story I wanted to tell. Also getting feedback from a set of eyes that does not have much information on exports but interets in farming was crucuial. This way I could get feedback from different perspectives.
 
-## User Research
 
 ### Target Audience
 
 For my target audience, I chose a mix of individuals with varied knowledge about agricultural exports and farming investments to gather diverse insights. It was crucial to get feedback from people who are familiar with export-based investments, as they can provide nuanced feedback on the structure and relevance of my narrative. Equally important was hearing from individuals who may not have expertise in exports but have a vested interest in farming, as their fresh perspectives offer valuable insights into how to make the story more accessible.
 
-## User Research Protocol
-
-### Target Audience
-
-The target audience for this research includes individuals with a vested interest in agricultural exports, farming investments, and sustainable growth in agriculture. By selecting a diverse group of interviewees, I aimed to gather feedback from both those familiar with export markets and those who have an interest in farming but limited knowledge about exports. This mix provided valuable insights on how to structure my story for different levels of understanding and engagement.
-
-#### Approach to Identifying Interviewees
 
 I interviewed three individuals representing various aspects of my target audience:
 1. **An agricultural economist in their early 30s**, familiar with the dynamics of global food trade and export-based investments. Their expertise was vital for understanding the potential of Indian agricultural exports.
@@ -86,5 +79,5 @@ Based on the feedback, I plan to make the following changes in my final project:
 
 ### Conclusion
 
-This user research provided invaluable insights into how I can refine my narrative and visualizations to better engage both experienced investors and upcoming farmers. By integrating success stories, improving visual clarity, and emphasizing sustainable practices, I will create a more compelling and accessible story in Part III of my project.
+This user research provided invaluable insights into how I can refine my narrative and visualizations to better engage both experienced investors and upcoming farmers. By integrating user success stories, improving visual clarity, and emphasizing sustainable practices, I will create a more compelling and accessible story in Part III of my project.
 
