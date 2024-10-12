@@ -1,4 +1,4 @@
-| [home page](https://drex2308.github.io/venkataramu-portfolio/) | [visualizing debt](dataviz2.md) | [critique by redesign](critique) | [final project I](final_project_DhanushVenkataramu) | [final project II](final_project_DhanushVenkataramu-part-two) | [final project III](final_project_DhanushVenkataramu-part-three) |
+| [home page](https://drex2308.github.io/venkataramu-portfolio/) | [visualizing debt](dataviz2) | [critique by redesign](critique) | [final project I](final_project_DhanushVenkataramu) | [final project II](final_project_DhanushVenkataramu-part-two) | [final project III](final_project_DhanushVenkataramu-part-three) |
 
 ## About Me
 
@@ -16,6 +16,7 @@ In this course, I aim to deepen my understanding of data visualization and effec
 
 ### Data Visualizations
 [OECD Government Debt](dataviz2.md)
+[Critique by ReDesign](critique.md)
 
 ### Final Project
 [Fianl Project: Opportunities in Agricultral Export in India](final_project_DhanushVenkataramu.md)
