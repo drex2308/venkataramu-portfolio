@@ -59,9 +59,11 @@ Trade Statistics - Mcommerce. (n.d.). Retrieved October 10, 2024, from https://w
 
 Ruiz, A. B. and N. G. (2021, April 29). Key facts about Asian Americans, a diverse and growing population. Pew Research Center. https://www.pewresearch.org/short-reads/2021/04/29/key-facts-about-asian-americans/
 
-Indian Restaurants in the US - Market Size, Industry Analysis, Trends and Forecasts (2024-2029)| IBISWorld. (n.d.). Retrieved October 10, 2024, from https://www.ibisworld.com/default.aspx
+Indian Restaurants in the US - Market Size, Industry Analysis, Trends and Forecasts (2024-2029)
 
-Agriculture - India | Statista Market Forecast. (n.d.). Statista. Retrieved October 10, 2024, from https://www.statista.com/outlook/io/agriculture/india
+IBISWorld. (n.d.). Retrieved October 10, 2024, from https://www.ibisworld.com/default.aspx
+
+Agriculture - India, Statista Market Forecast. (n.d.). Statista. Retrieved October 10, 2024, from https://www.statista.com/outlook/io/agriculture/india
 
 van der Ploeg, J. D., Barjolle, D., Bruil, J., Brunori, G., Costa Madureira, L. M., Dessein, J., Drąg, Z., Fink-Kessler, A., Gasselin, P., Gonzalez de Molina, M., Gorlach, K., Jürgens, K., Kinsella, J., Kirwan, J., Knickel, K., Lucas, V., Marsden, T., Maye, D., Migliorini, P., … Wezel, A. (2019). The economic potential of agroecology: Empirical evidence from Europe. Journal of Rural Studies, 71, 46–61. https://doi.org/10.1016/j.jrurstud.2019.09.003
 
