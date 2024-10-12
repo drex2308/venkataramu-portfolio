@@ -1,6 +1,6 @@
 | [home page](https://drex2308.github.io/venkataramu-portfolio/) | [visualizing debt](dataviz2.md) | [critique by redesign](critique) | [final project I](final_project_DhanushVenkataramu) | [final project II](final_project_DhanushVenkataramu-part-two) | [final project III](final_project_DhanushVenkataramu-part-three) |
 
- # Wireframes / storyboards
+# Wireframes / storyboards
 
 The detaliled project structure from part 1 enabled me to refine how I tell my story through the approriate hook, facts and data visualizations in this phase. Describing my research and insights on this topic that was very inspirational to me was exciting, I told my story with my research and findings with relevant images and data visualizations.
 Using Shorthand, I designed the elements that play a crucial role in story telling, choosing a color theme to reflect my topic, layout to persuade my viewers to hop on the opportunity I was presenting. I made the visualization as interactive as possible  to keep the users engaged (embedding the tableau links), help users navigate and reveal information on user engagement.
